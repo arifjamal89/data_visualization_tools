@@ -119,6 +119,7 @@ Visualize the Data
 
 ## First Question - What was the survival rate?
 
+Right Click Survived and change to dimension
 Drag Survived into column
 Drag count into row
 
@@ -128,32 +129,40 @@ Drag count into row
 
 Drag Sex and Survived into Column
 Drag Count into row
+Group by highlighting each group and change the color
 
 ![](https://paper-attachments.dropboxusercontent.com/s_9288C010A10BF6F326DF2FE9B38A3837EA58C0A7726C9BBACB8096950666318D_1681832798245_image.png)
 
-
-Third Question - What was the survival rate by class of ticket?
-
+## Third Question - What was the survival rate by class of ticket?
+- Change Pclass Measure to Dimension
+- Drag Survived and Pclass to column
+- Drag Count titanic to row
+- Group by each Survived and change color
 ![](https://paper-attachments.dropboxusercontent.com/s_9288C010A10BF6F326DF2FE9B38A3837EA58C0A7726C9BBACB8096950666318D_1681833299185_image.png)
 
-
-Fourth Question - What was the survival rate by class of ticket and gender?
-
+## Fourth Question - What was the survival rate by class of ticket and gender?
 ![](https://paper-attachments.dropboxusercontent.com/s_9288C010A10BF6F326DF2FE9B38A3837EA58C0A7726C9BBACB8096950666318D_1681833383335_image.png)
 
-
-Fifth Question - What is the distribution of passenger ages?
-
+## Fifth Question - What is the distribution of passenger ages?
+- Drag age to column
+- Open show me button and choose distribution plot
 ![](https://paper-attachments.dropboxusercontent.com/s_9288C010A10BF6F326DF2FE9B38A3837EA58C0A7726C9BBACB8096950666318D_1681833480086_image.png)
 
 
 Sixth Question - What are the survival rates by age?
+Drag Survived to colors
 
-![](https://paper-attachments.dropboxusercontent.com/s_9288C010A10BF6F326DF2FE9B38A3837EA58C0A7726C9BBACB8096950666318D_1681833587680_image.png)
+![](https://paper-attachments.dropboxusercontent.com/s_9288C010A10BF6F326DF2FE9B38A3837EA58C0A7726C9BBACB8096950666318D_1684692836476_Screenshot+2023-05-22+at+2.13.42+AM.png)
 
 
 Seventh Question - What is the survival rates by age when segmented by gender and class of ticket? 
 
 ![](https://paper-attachments.dropboxusercontent.com/s_9288C010A10BF6F326DF2FE9B38A3837EA58C0A7726C9BBACB8096950666318D_1681833918855_image.png)
+
+
+Showing in box plot form
+
+- choose show me and choose box plot form 
+![](https://paper-attachments.dropboxusercontent.com/s_9288C010A10BF6F326DF2FE9B38A3837EA58C0A7726C9BBACB8096950666318D_1684693783739_Screenshot+2023-05-22+at+2.29.40+AM.png)
 
 
