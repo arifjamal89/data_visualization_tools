@@ -1,5 +1,10 @@
 # Tableau Training Data Visualization
 
+# CONSENT FORM AND PRE-TEST SURVEY
+|                                                           |                                                                                                                                                             |
+| --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| CONSENT FORM<br>https://forms.gle/V8qWQbdQyw4NnTqE9       | ![](https://paper-attachments.dropboxusercontent.com/s_9288C010A10BF6F326DF2FE9B38A3837EA58C0A7726C9BBACB8096950666318D_1684647409346_Consent+Form+UM.png)  |
+| PRE - TEST TABLEAU<br>https://forms.gle/ozquBkTJtkbmRNEn8 | ![](https://paper-attachments.dropboxusercontent.com/s_9288C010A10BF6F326DF2FE9B38A3837EA58C0A7726C9BBACB8096950666318D_1684647630885_Tableau+Pre-Test.png) |
 
 # INSTALLATION / SETUP
 
